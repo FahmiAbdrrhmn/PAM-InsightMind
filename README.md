@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pamfahmi
 
 A new Flutter project.
@@ -17,4 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # PAM-InsightMind
->>>>>>> 78e2b6f05cec0e7ab7208da89863cd2b9aad8f3b
